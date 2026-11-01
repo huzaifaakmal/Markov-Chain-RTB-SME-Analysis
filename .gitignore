@@ -1,0 +1,5 @@
+.ipynb_checkpoints/ 
+*.bz2 
+Raw Dataset/ 
+__pycache__/ 
+research_finding.txt 
